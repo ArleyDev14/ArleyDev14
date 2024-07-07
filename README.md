@@ -4,7 +4,7 @@
 <h1 align="center">Hi 🧑🏻‍💻, I'm Arley Mantilla</h1>
 
 <h3 align="center">A passionate Backend developer from Colombia</h3>
-
+ <div align="center">
 - 🔭 I’m currently working on **ArleyDev**
 - 💬 Ask me about **Html | Css | Javascript | Python | Java | MySQL | Spring Boot |**
 
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleymv&show_icons=true&locale=en&layout=compact" alt="arleymv" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arleymv" alt="arleymv" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arleymv&show_icons=true&locale=en" alt="arleymv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arleymv&show_icons=true&locale=en" alt="arleymv" /></p></div>
