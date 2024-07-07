@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/a/arleydev-3CgAFi0" style="max-width: 100%;"/>
+<img src="https://i.imgur.com/l330D7P.png" style="max-width: 100%;"/>
 </div>
 <h1 align="center">Hi 👋, I'm Arley Mantilla</h1>
 
