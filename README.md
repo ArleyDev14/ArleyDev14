@@ -6,10 +6,9 @@
 -----
 
 <h3 align="center">A passionate Backend developer from Colombia</h3>
-
----
 <p align="center">🔭 I’m currently working on <b>ArleyDev</b></p>
 <p align="center">💬 Ask me about <b>Html | Css | Javascript | Python | Java | MySQL | Spring Boot |</b></p>
+
 ---
 
 <h3 align="center">Connect with me:</h3>
