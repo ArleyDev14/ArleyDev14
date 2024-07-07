@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arley Mantilla</h1>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/3CgAFi0"  ><a href="//imgur.com/a/3CgAFi0">ArleyDev</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="l330D7P"><a href="https://imgur.com/l330D7P">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
