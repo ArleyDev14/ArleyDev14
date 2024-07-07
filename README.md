@@ -1,4 +1,4 @@
-<img src="https://imgur.com/l330D7P"  width="500px"/>
+<img src="https://imgur.com/l330D7P"  width="50px"/>
 
 <h1 align="center">Hi 👋, I'm Arley Mantilla</h1>
 
