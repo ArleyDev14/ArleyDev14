@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arley Mantilla</h1>
 
-<img src=(https://imgur.com/l330D7P) />
+<img src="https://imgur.com/l330D7P" />
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arleymv&label=Profile%20views&color=0e75b6&style=flat" alt="arleymv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arleymv" alt="arleymv" /></a> </p>
 
