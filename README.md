@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arley Mantilla</h1>
-
 [Imgur](https://imgur.com/l330D7P)
+
+<h1 align="center">Hi 👋, I'm Arley Mantilla</h1>
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
