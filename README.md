@@ -24,6 +24,9 @@
 
 ---
 <div align="center"> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleymv&show_icons=true&locale=en&layout=compact" alt="arleymv" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arleymv" alt="arleymv" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arleymv&show_icons=true&locale=en" alt="arleymv" /></p></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arleydev14&show_icons=true&locale=en&layout=compact" alt="arleydev14" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arleydev14&show_icons=true&locale=en" alt="arleydev14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arleydev14&" alt="arleydev14" /></p>
+</div>
