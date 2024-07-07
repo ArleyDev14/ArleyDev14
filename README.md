@@ -1,5 +1,6 @@
+<div align="center">
 <img src="https://imgur.com/a/arleydev-3CgAFi0" style="max-width: 100%;"/>
-
+</div>
 <h1 align="center">Hi 👋, I'm Arley Mantilla</h1>
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
