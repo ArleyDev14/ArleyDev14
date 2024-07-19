@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/qeoI3SG.png" style="max-width: 100%;"/>
 </div>
-<h1 align="center" style="color:blue;"> Hi 🧑🏻‍💻, I'm Arley Mantilla </h1>
+<h1 align="center"> Hi 🧑🏻‍💻, I'm Arley Mantilla </h1>
 
 -----
 
